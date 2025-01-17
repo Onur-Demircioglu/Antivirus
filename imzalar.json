@@ -1,0 +1,24 @@
+{
+    "\u015f\u00fcpheli_desenler": [
+        {
+            "isim": "Process Injection",
+            "desen": "VirtualAllocEx",
+            "risk_puan\u0131": 20
+        },
+        {
+            "isim": "Keylogger",
+            "desen": "SetWindowsHookEx",
+            "risk_puan\u0131": 15
+        },
+        {
+            "isim": "Dosya \u0130\u015flemleri",
+            "desen": "CreateFile",
+            "risk_puan\u0131": 5
+        }
+    ],
+    "g\u00fcvenilir_imzalar": [
+        "Microsoft Corporation",
+        "Google LLC",
+        "Mozilla Corporation"
+    ]
+}
